@@ -1,0 +1,1165 @@
+{
+    "manifest_version": "1.0.22",
+    "title": "Solara - Template kit for Solar Panel & Renewable Energy",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/shine.creativemox.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.jpg",
+            "source": "templates\/project.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/template-kit\/project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Solara - Header",
+            "screenshot": "screenshots\/solara-header.jpg",
+            "source": "templates\/solara-header.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/?elementor_library=solara-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Solara - Footer",
+            "screenshot": "screenshots\/solara-footer.jpg",
+            "source": "templates\/solara-footer.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/?elementor_library=solara-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Solara - Archieve",
+            "screenshot": "screenshots\/solara-archieve.jpg",
+            "source": "templates\/solara-archieve.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/?elementor_library=solara-archieve",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Solara - Single Post",
+            "screenshot": "screenshots\/solara-single-post.jpg",
+            "source": "templates\/solara-single-post.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/?elementor_library=solara-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: All Singular."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Solara - 404",
+            "screenshot": "screenshots\/solara-404.jpg",
+            "source": "templates\/solara-404.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/solara\/?elementor_library=solara-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.2.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.8",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.23.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.23.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "close-up-a-propeller-of-wind-turbine-in-wind-park-in-the-field-and-mountains-on-the-background.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/close-up-a-propeller-of-wind-turbine-in-wind-park-in-the-field-and-mountains-on-the-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 156060,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UXYWEGK"
+        },
+        {
+            "filename": "robotics-engineers-team-discussing-and-solving-problems.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/robotics-engineers-team-discussing-and-solving-problems-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 127908,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9R6TZ3M"
+        },
+        {
+            "filename": "various-solar-energy-panels.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/various-solar-energy-panels.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/solara-archieve.json",
+                    "name": "Solara - Archieve"
+                }
+            ],
+            "filesize": 198257,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/various-solar-energy-panels-PN3BKAD"
+        },
+        {
+            "filename": "renewable-energy-engineer-working-on-wind-turbine-1.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/renewable-energy-engineer-working-on-wind-turbine-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 86470,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4BS6QCS"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 2063,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 1811,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 2300,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 1900,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "aerial-view-of-wind-turbines.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/aerial-view-of-wind-turbines-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 101378,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KGLKRGP"
+        },
+        {
+            "filename": "diverse-ethnicity-male-technicians-working-in-the-wind-turbines-field-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/diverse-ethnicity-male-technicians-working-in-the-wind-turbines-field--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 113414,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6TL27SD"
+        },
+        {
+            "filename": "diverse-ethnicity-male-technicians-working-in-the-wind-turbines-field-1-1.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/diverse-ethnicity-male-technicians-working-in-the-wind-turbines-field-1-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 98392,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NNS5JHG"
+        },
+        {
+            "filename": "professional-engineering-discuss-inspecting-with-engineer-team-at-construction-site.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/professional-engineering-discuss-inspecting-with-engineer-team-at-construction-site-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 124232,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DTJFK9Z"
+        },
+        {
+            "filename": "technician-working-on-ecological-solar-farm-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/technician-working-on-ecological-solar-farm--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 127818,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VSYGJYM"
+        },
+        {
+            "filename": "wind-turbines-at-dusk-on-green-field-renewable-energy-poland-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/wind-turbines-at-dusk-on-green-field-renewable-energy-poland-.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 117990,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X9P974G"
+        },
+        {
+            "filename": "panoramic-view-of-wind-farm-or-wind-park-with-high-wind-turbines-for-generation-electricity-with.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/panoramic-view-of-wind-farm-or-wind-park-with-high-wind-turbines-for-generation-electricity-with-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 127870,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ND8V6KP"
+        },
+        {
+            "filename": "solar-system-installation-on-top-of-house.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/solar-system-installation-on-top-of-house-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 215175,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/solar-system-installation-on-top-of-house-4JGMURK"
+        },
+        {
+            "filename": "img__08.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/img__08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 31237,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multiethnic-business-people-portrait-YK2UXCU"
+        },
+        {
+            "filename": "img__03.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/img__03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 29588,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multiethnic-business-people-portrait-YK2UXCU"
+        },
+        {
+            "filename": "img__01.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/img__01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 32890,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multiethnic-business-people-portrait-YK2UXCU"
+        },
+        {
+            "filename": "img__06.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/img__06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 32425,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multiethnic-business-people-portrait-YK2UXCU"
+        },
+        {
+            "filename": "aerial-view-of-wind-turbines-1.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/aerial-view-of-wind-turbines-1-800x602.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 119304,
+            "dimensions": [
+                1280,
+                963
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DVP29A7"
+        },
+        {
+            "filename": "technicians-installing-photovoltaic-solar-panels-on-roof-of-house-1-1.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/technicians-installing-photovoltaic-solar-panels-on-roof-of-house-1-1-800x547.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 234055,
+            "dimensions": [
+                1280,
+                875
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HB4WLX7"
+        },
+        {
+            "filename": "solar-panel-station-engineer-installing-solar-panel-at-solar-energy-farm-field-2.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/solar-panel-station-engineer-installing-solar-panel-at-solar-energy-farm-field-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 148613,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T3EFKMJ"
+        },
+        {
+            "filename": "men-workers-installing-solar-panels-on-roof-of-house-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/men-workers-installing-solar-panels-on-roof-of-house--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 269955,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A7FVGL7"
+        },
+        {
+            "filename": "happy-business-people-work-on-sustainable-renewable-energy-project-inside-office-eco-electricity.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/happy-business-people-work-on-sustainable-renewable-energy-project-inside-office-eco-electricity.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 145438,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5GVLSUM"
+        },
+        {
+            "filename": "img__12.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/img__12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 22996,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multiethnic-business-people-portrait-YK2UXCU"
+        },
+        {
+            "filename": "img__10.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/img__10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 24761,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multiethnic-business-people-portrait-YK2UXCU"
+        },
+        {
+            "filename": "img__07.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/img__07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 27230,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multiethnic-business-people-portrait-YK2UXCU"
+        },
+        {
+            "filename": "img__05.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/img__05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 22541,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multiethnic-business-people-portrait-YK2UXCU"
+        },
+        {
+            "filename": "happy-eco-staff-with-solar-panels-model-working-on-solar-energy-power-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/happy-eco-staff-with-solar-panels-model-working-on-solar-energy-power--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 117047,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QJWVFSQ"
+        },
+        {
+            "filename": "young-intercultural-customer-support-representatives-working-in-office.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/young-intercultural-customer-support-representatives-working-in-office-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 128598,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D68P36X"
+        },
+        {
+            "filename": "Logo_solara_2.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/Logo_solara_2.png",
+            "templates": [
+                {
+                    "source": "templates\/solara-header.json",
+                    "name": "Solara - Header"
+                }
+            ],
+            "filesize": 28676,
+            "dimensions": [
+                756,
+                176
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "an-indian-worker-installs-solar-panels-the-concept-of-renewable-energy-800x532-1.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/an-indian-worker-installs-solar-panels-the-concept-of-renewable-energy-800x532-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solara-single-post.json",
+                    "name": "Solara - Single Post"
+                }
+            ],
+            "filesize": 100773,
+            "dimensions": [
+                800,
+                532
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/an-indian-worker-installs-solar-panels-the-concept-UXUDY39"
+        },
+        {
+            "filename": "eco-electricity-generator.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/solara\/wp-content\/uploads\/sites\/2\/2024\/07\/eco-electricity-generator.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solara-404.json",
+                    "name": "Solara - 404"
+                }
+            ],
+            "filesize": 64825,
+            "dimensions": [
+                1280,
+                908
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/eco-electricity-generator-R2JWBDT"
+        }
+    ]
+}
